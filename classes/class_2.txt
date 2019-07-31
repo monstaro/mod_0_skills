@@ -1,0 +1,18 @@
+Class in a restaurant: Table
+
+Table attributes:
+
+Length (Float)
+Width (Float)
+Height (Float)
+Material (String)
+Booth (Boolean)
+Color (String)
+Capacity (Integer)
+
+Methods:
+
+Paint_Table (Changes Color attribute)
+Increase_Height (Changes Height attribute)
+Rotate (Changes width attribute)
+Smash (Changes length, width, and height attribute)
