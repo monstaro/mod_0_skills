@@ -1,0 +1,22 @@
+Glass Table
+
+Length: 3.5 feet
+Width: 2.5 feet
+Height: 3.5 feet
+Material: Glass
+Booth: No
+Color: Clear
+Capacity: 3
+
+Methods:
+
+Paint_Table (Changes Color attribute)
+Increase_Height (Changes Height attribute)
+Rotate (Changes width attribute)
+Smash (Changes length, width, and height attribute)
+
+Results:
+Paint_Table = Color: White
+Increase_height = Height: 4.0 feet
+Rotate = Width: 3.5 feet
+Smash = Width: 0 feet
