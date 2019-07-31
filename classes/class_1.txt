@@ -1,0 +1,15 @@
+RESTAURANT
+
+Sushi Sasa
+
+Attributes:
+Open: (Boolean)
+Vegan Options (Boolean)
+Atmosphere (String)
+Price Range 0/4 (Integer)
+
+Methods:
+Open restaurant (Makes open attribute true)
+Close restaurant (Makes open attribute false)
+Sells $20 Appetizers (Makes Price Range 4/4)
+Sells $5 Appetizers (Makes Price Range 1/4)
